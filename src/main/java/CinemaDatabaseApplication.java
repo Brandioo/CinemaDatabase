@@ -1,3 +1,4 @@
+//Brand Citozi SDA Academy
 import Utils.HibernateUtils;
 import model.*;
 import org.hibernate.Session;
